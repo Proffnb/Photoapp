@@ -1,4 +1,14 @@
-$body-bg:      #bdc3c7;
-$brand-primar: #2980b9;
-$jumbotron-bg: #ecf0f1;
+
+$body-bg:      							#bdc3c7;
+$brand-primar: 							#2980b9;
+$jumbotron-bg: 							#ecf0f1;
+
 @import 'bootstrap';
+
+.center {
+	text-align: center;
+}
+
+.navbar-brand {
+	font-weight:bold;
+}
